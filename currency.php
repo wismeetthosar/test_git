@@ -1,4 +1,4 @@
-<?php echo 'Meet Thosar';?>
+<?php echo 'Meet Mandar Thosar';?>
 <form  name="donationFrm" id="donationFrm" style="display: none;">
 <table>
 <tr>
